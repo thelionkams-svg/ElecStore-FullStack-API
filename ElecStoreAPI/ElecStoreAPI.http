@@ -1,0 +1,6 @@
+@ElecStoreAPI_HostAddress = http://localhost:5015
+
+GET {{ElecStoreAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ElecStoreAPI\\ElecStoreAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ElecStoreUI\\ElecStoreUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

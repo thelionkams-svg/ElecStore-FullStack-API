@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ElecStore</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.rtl.min.css" rel="stylesheet">
+    <link href="css/site.css" rel="stylesheet">
+</head>
+
+
+
+<body>
+
+    <div id="navbar-placeholder"></div>
+
+    <div class="container mt-5">
+        <h1 class="page-title text-center">مرحباً بك في نظام إدارة محل الإلكترونيات</h1>
+
+        <div class="row g-4 mt-4">
+
+            <div class="col-md-4">
+                <div class="card-panel text-center">
+                    <h4>الفئات</h4>
+                    <p>إدارة فئات المنتجات (إضافة، تعديل، حذف)</p>
+                    <a href="categories.html" class="btn btn-elec-primary">الدخول</a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card-panel text-center">
+                    <h4>المنتجات</h4>
+                    <p>إدارة المنتجات وأسعارها والمخزون</p>
+                    <a href="products.html" class="btn btn-elec-primary">الدخول</a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card-panel text-center">
+                    <h4>الفواتير</h4>
+                    <p>إنشاء فاتورة بيع جديدة وإضافة أصناف لها</p>
+                    <a href="sales.html" class="btn btn-elec-primary">الدخول</a>
+                </div>
+            </div>
+        
+        </div>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/navbar.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => loadNavbar("home"));
+    </script>
+
+</body>
+</html>

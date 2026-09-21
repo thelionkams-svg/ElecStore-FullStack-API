@@ -1,0 +1,56 @@
+/* ===== ألوان وتنسيق عام لمشروع ElecStore ===== */
+
+body {
+    background-color: #f3f4f6;
+    font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+}
+
+.navbar-elecstore {
+    background-color: #1f2937;
+}
+
+.navbar-elecstore .navbar-brand,
+.navbar-elecstore .nav-link {
+    color: #f9fafb !important;
+}
+
+.navbar-elecstore .nav-link:hover {
+    color: #f59e0b !important;
+}
+
+.page-title {
+    margin: 24px 0 16px 0;
+    font-weight: 700;
+    color: #1f2937;
+}
+
+.btn-elec-primary {
+    background-color: #f59e0b;
+    border-color: #f59e0b;
+    color: #1f2937;
+    font-weight: 600;
+}
+
+.btn-elec-primary:hover {
+    background-color: #d97706;
+    border-color: #d97706;
+    color: #1f2937;
+}
+
+.card-panel {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+    padding: 20px;
+}
+
+table.table thead {
+    background-color: #1f2937;
+    color: #fff;
+}
+
+.cart-total {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #1f2937;
+}

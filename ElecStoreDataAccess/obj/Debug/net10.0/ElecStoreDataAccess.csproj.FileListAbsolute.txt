@@ -1,0 +1,13 @@
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\bin\Debug\net10.0\ElecStoreDataAccess.deps.json
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\bin\Debug\net10.0\ElecStoreDataAccess.dll
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\bin\Debug\net10.0\ElecStoreDataAccess.pdb
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\ElecStoreDataAccess.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\ElecStoreDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\ElecStoreDataAccess.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\ElecStoreDataAccess.AssemblyInfo.cs
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\ElecStoreDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\ElecStoreDataAccess.dll
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\refint\ElecStoreDataAccess.dll
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\ElecStoreDataAccess.pdb
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\ref\ElecStoreDataAccess.dll
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreDataAccess\obj\Debug\net10.0\ElecStor.9A5C47FB.Up2Date

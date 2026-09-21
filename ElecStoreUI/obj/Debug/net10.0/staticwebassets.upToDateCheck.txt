@@ -1,0 +1,26 @@
+wwwroot\categories.html
+wwwroot\css\site.css
+wwwroot\index.html
+wwwroot\js\login.js
+wwwroot\js\navbar.js
+wwwroot\js\sales.js
+wwwroot\login.html
+wwwroot\products.html
+wwwroot\README.txt
+wwwroot\sales.html
+wwwroot\js\categories.js
+wwwroot\js\config.js
+wwwroot\js\products.js
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\categories.html
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\css\site.css
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\index.html
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\js\login.js
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\js\navbar.js
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\js\sales.js
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\login.html
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\products.html
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\README.txt
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\sales.html
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\js\categories.js
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\js\config.js
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreUI\wwwroot\js\products.js

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\bin\Debug\net10.0\ElecStoreBusiness.deps.json
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\bin\Debug\net10.0\ElecStoreBusiness.dll
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\bin\Debug\net10.0\ElecStoreBusiness.pdb
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\bin\Debug\net10.0\ElecStoreDataAccess.dll
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\bin\Debug\net10.0\ElecStoreDataAccess.pdb
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\ElecStoreBusiness.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\ElecStoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\ElecStoreBusiness.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\ElecStoreBusiness.AssemblyInfo.cs
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\ElecStoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\ElecStor.EFDB9F81.Up2Date
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\ElecStoreBusiness.dll
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\refint\ElecStoreBusiness.dll
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\ElecStoreBusiness.pdb
+C:\Users\Test\Desktop\Back End projects\6 - The ElecStore Project\ElecStore\ElecStoreBusiness\obj\Debug\net10.0\ref\ElecStoreBusiness.dll

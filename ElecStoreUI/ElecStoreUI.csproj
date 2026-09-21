@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\categories.html" />
+    <None Include="wwwroot\css\site.css" />
+    <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\js\categories.js" />
+    <None Include="wwwroot\js\config.js" />
+    <None Include="wwwroot\js\navbar.js" />
+    <None Include="wwwroot\js\products.js" />
+    <None Include="wwwroot\js\sales.js" />
+    <None Include="wwwroot\products.html" />
+    <None Include="wwwroot\README.txt" />
+    <None Include="wwwroot\sales.html" />
+  </ItemGroup>
+
+</Project>

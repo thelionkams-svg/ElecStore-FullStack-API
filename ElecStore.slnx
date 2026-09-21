@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ElecStoreAPI/ElecStoreAPI.csproj" Id="fec46dab-cec0-41ea-8bb2-a9758eeb7a22" />
+  <Project Path="ElecStoreBusiness/ElecStoreBusiness.csproj" />
+  <Project Path="ElecStoreDataAccess/ElecStoreDataAccess.csproj" />
+  <Project Path="ElecStoreUI/ElecStoreUI.csproj" Id="300a4b18-ad78-4f77-b54a-6716d22fecfb" />
+</Solution>
